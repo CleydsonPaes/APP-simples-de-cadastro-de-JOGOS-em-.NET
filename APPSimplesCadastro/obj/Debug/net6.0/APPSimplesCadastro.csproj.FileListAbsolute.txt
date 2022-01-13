@@ -1,0 +1,15 @@
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.csproj.AssemblyReference.cache
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.AssemblyInfoInputs.cache
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.AssemblyInfo.cs
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\bin\Debug\net6.0\APPSimplesCadastro.exe
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\bin\Debug\net6.0\APPSimplesCadastro.deps.json
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\bin\Debug\net6.0\APPSimplesCadastro.runtimeconfig.json
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\bin\Debug\net6.0\APPSimplesCadastro.dll
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\bin\Debug\net6.0\ref\APPSimplesCadastro.dll
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\bin\Debug\net6.0\APPSimplesCadastro.pdb
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.dll
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\ref\APPSimplesCadastro.dll
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.pdb
+C:\Users\Cleydson\Desktop\Cleydson\1-Estudos\21-DioEstudos\DESAFIOS\2-C#.NET\APPSimplesCadastro\obj\Debug\net6.0\APPSimplesCadastro.genruntimeconfig.cache
